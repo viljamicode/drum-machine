@@ -4,8 +4,8 @@ import math
 pygame.mixer.init()
 pygame.init()
 
-WIDTH = 600
-HEIGHT = 400
+WIDTH = 640
+HEIGHT = 480
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
 # Create the name for the game window
